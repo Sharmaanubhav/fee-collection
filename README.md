@@ -1,6 +1,6 @@
 # fee-collection
 Fee collection using python
-This is a fee collection sowftware create dwith use of tkinter and other python modules.
+This is a fee collection sowftware create with use of tkinter and other python modules.
 This consists of addfee to add a new fee for a new class.
 delete is used to delete the data in the database.
 fee is used to sbmit hte fee of a student.
